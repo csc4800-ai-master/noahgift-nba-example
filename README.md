@@ -1,11 +1,6 @@
 # noahgift-nba-example
 Code and Data for the Pragmatic AI Book
 
-## Steps
-
-1. Create the requirements file
-1. Create the makefile
-1. Run: `make setup` and then `make install` if it does not work, then run on command line
 
 
 ## Steps
